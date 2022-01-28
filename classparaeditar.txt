@@ -1,0 +1,4 @@
+<div class="headContainer"></div>
+<div class="menuContainer"></div>
+<div class="footerContainer"></div>
+<div class="portafolioDeProyectos"></div>
