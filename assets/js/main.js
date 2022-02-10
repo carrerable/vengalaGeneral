@@ -193,7 +193,8 @@
     $('.footerContainer').load('./Footer.html');
     $('.headContainer').load('./Head.html');
     $('.portafolioDeProyectos').load('./portafolioDeProyectos.html');
-    console.log("Menu Cargado")
+    console.log("Menu Cargaddo")
   });
 
 })(jQuery);
+
