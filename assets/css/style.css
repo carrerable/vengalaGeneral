@@ -8,6 +8,19 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@media screen and (max-width: 600px) {
+  .ocultar-div{
+  display:none;
+  }
+  }
+  
+  @media screen and (min-width: 300px) {
+  .MostrarCEL-div{
+  display:none;
+  }
+  }
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #4d4643;
